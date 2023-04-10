@@ -1,4 +1,4 @@
-# EECS-6422-Project
+# EECS-6322-Project
 EECS 6322 WI 2023 Reproducibility challenge
 This project is inspired1 by the Machine Learning Reproducibility Challenge
 (https://paperswithcode.com/rc2020/task). The aim of this project is to
