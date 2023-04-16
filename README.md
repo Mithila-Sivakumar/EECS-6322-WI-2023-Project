@@ -16,11 +16,11 @@ We have tried to reproduce the implemention the TransMatcher decoder on top of t
 
 Note - The datasets are not uploaded here in github, instead a link to them is provided below
 <ol>
-  <li>CUHK03-NP - [here] (https://github.com/zhunzhong07/person-re-ranking/blob/master/CUHK03-NP/README.md)</li>
-  <li>Market-1501 - [here] (https://zheng-lab.cecs.anu.edu.au/Project/project_reid.html)</li>
+  <li>CUHK03-NP - [here](https://github.com/zhunzhong07/person-re-ranking/blob/master/CUHK03-NP/README.md)</li>
+  <li>Market-1501 - [here](https://zheng-lab.cecs.anu.edu.au/Project/project_reid.html)</li>
 </ol> 
 
-The checkpoint file to do evaluation is [here] (https://yuoffice-my.sharepoint.com/:f:/g/personal/msivakum_yorku_ca/Eu00buljiBVGgimzZwCkbnUBtb79SSrsb8gk_YcagmnygQ?e=NW9GZf). Access is within york university
+The checkpoint file to do evaluation is [here](https://yuoffice-my.sharepoint.com/:f:/g/personal/msivakum_yorku_ca/Eu00buljiBVGgimzZwCkbnUBtb79SSrsb8gk_YcagmnygQ?e=NW9GZf). Access is within york university
 
 ## Results
 
