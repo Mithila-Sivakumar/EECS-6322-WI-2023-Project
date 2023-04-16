@@ -24,5 +24,7 @@ The checkpoint file to do evaluation is [here](https://yuoffice-my.sharepoint.co
 
 ## Results
 
-## Summary
+While we were able to successfully train the model on Market-1501 dataset. Our test results on the CUHK03-np-detected, however, were not the same as reported in the paper. Our rank-1 and mAP were 16.5% and 17% respectively, which is 6% less than what is reported in the paper. In summary, while were sucessfully able to create and train the TransMatcher model, we were not able to successfully reproduce the exact results.
+
+The results of training and testing are avilable in "results.json" and "eval.json" respectively.
 
