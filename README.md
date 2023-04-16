@@ -8,7 +8,7 @@ will include re-implementing the core methods and experiments in the paper
 Project Report - EECS_6322_Report.pdf
 
 ## Abstract
-In this project, we present a reproduction study of the paper "TransMatcher: Deep Image Matching Through Transformers for Generalizable Person Re-identification". We implemented the TransMatcher using PyTorch (on top of QAConv-GS as mentioned in the paper) and reproduced the experiments on three different person re-identification benchmarks. We evaluated the model's performance using the mean average precision (mAP), and Rank-1 metric and compared our results to those reported in the original paper.
+In this project, we present a reproduction study of the paper "TransMatcher: Deep Image Matching Through Transformers for Generalizable Person Re-identification". We implemented the TransMatcher using PyTorch (on top of QAConv-GS as mentioned in the paper). We implemented the TransMatcher model and reproduced the scenario where the model is trained on Market-1501 dataset and tested on CUHK03-np dataset. We evaluated the model's performance using the mean average precision (mAP), and Rank-1 metric and compared our results to those reported in the original paper
 
 ## Implementation Details
 
@@ -25,6 +25,9 @@ The checkpoint file to do evaluation is [here](https://yuoffice-my.sharepoint.co
 ## Results
 
 While we were able to successfully train the model on Market-1501 dataset. Our test results on the CUHK03-np-detected, however, were not the same as reported in the paper. Our rank-1 and mAP were 16.5% and 17% respectively, which is 6% less than what is reported in the paper. In summary, while were sucessfully able to create and train the TransMatcher model, we were not able to successfully reproduce the exact results.
+
+<img width="358" alt="Screen Shot 2023-04-16 at 7 15 24 PM" src="https://user-images.githubusercontent.com/127549357/232348788-0e1871d2-6117-4a48-8104-b77d0d151a44.png">
+
 
 The results of training and testing are avilable in "results.json" and "eval.json" respectively.
 
