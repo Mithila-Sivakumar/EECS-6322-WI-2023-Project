@@ -1,0 +1,32 @@
+{"train_dataset": {"train_dataset": "market", "exp_dir": "/content/drive/MyDrive/NN/QAConv/Exp", "method": "TransMatcher", "sub_method": "res50-ibnb-layer3"}
+{"train_dataset": "market", "loss": 3.5695833658449816, "acc": 0.7017934420772304, "epochs": 1, "train_time": 527.9516382217407}
+{"train_dataset": "market", "exp_dir": "/content/drive/MyDrive/NN/QAConv/Exp", "method": "TransMatcher", "sub_method": "res50-ibnb-layer3"}
+{"train_dataset": "market", "loss": 6.072469109066635, "acc": 0.4437416777629827, "epochs": 1, "train_time": 281.5808415412903}
+{"train_dataset": "market", "exp_dir": "/content/drive/MyDrive/NN/QAConv/Exp", "method": "TransMatcher", "sub_method": "res50-ibnb-layer3"}
+{"train_dataset": "market", "loss": 6.837835629992733, "acc": 0.26832972703062585, "epochs": 2, "train_time": 387.9088580608368}
+{"train_dataset": "market", "exp_dir": "/content/drive/MyDrive/NN/QAConv/Exp", "method": "TransMatcher", "sub_method": "res50-ibnb-layer3"}
+{"train_dataset": "market", "loss": 5.669819738829977, "acc": 0.36567909454061254, "epochs": 3, "train_time": 491.78669261932373}
+{"train_dataset": "market", "exp_dir": "/content/drive/MyDrive/NN/QAConv/Exp", "method": "TransMatcher", "sub_method": "res50-ibnb-layer3"}
+{"train_dataset": "market", "loss": 4.95427730746974, "acc": 0.4527088881491345, "epochs": 4, "train_time": 595.8574376106262}
+{"train_dataset": "market", "exp_dir": "/content/drive/MyDrive/NN/QAConv/Exp", "method": "TransMatcher", "sub_method": "res50-ibnb-layer3"}
+{"train_dataset": "market", "loss": 4.546608255325399, "acc": 0.5010402796271638, "epochs": 5, "train_time": 699.7899701595306}
+{"train_dataset": "market", "exp_dir": "/content/drive/MyDrive/NN/QAConv/Exp", "method": "TransMatcher", "sub_method": "res50-ibnb-layer3"}
+{"train_dataset": "market", "loss": 4.115804109370185, "acc": 0.5510361185086551, "epochs": 6, "train_time": 803.7925963401794}
+{"train_dataset": "market", "exp_dir": "/content/drive/MyDrive/NN/QAConv/Exp", "method": "TransMatcher", "sub_method": "res50-ibnb-layer3"}
+{"train_dataset": "market", "loss": 3.8361586287875626, "acc": 0.5895264647137151, "epochs": 7, "train_time": 907.70019364357}
+{"train_dataset": "market", "exp_dir": "/content/drive/MyDrive/NN/QAConv/Exp", "method": "TransMatcher", "sub_method": "res50-ibnb-layer3"}
+{"train_dataset": "market", "loss": 3.3484750411481894, "acc": 0.6517351864181092, "epochs": 8, "train_time": 1010.9686408042908}
+{"train_dataset": "market", "exp_dir": "/content/drive/MyDrive/NN/QAConv/Exp", "method": "TransMatcher", "sub_method": "res50-ibnb-layer3"}
+{"train_dataset": "market", "loss": 3.389591937376243, "acc": 0.6364638814913449, "epochs": 9, "train_time": 1113.9725670814514}
+{"train_dataset": "market", "exp_dir": "/content/drive/MyDrive/NN/QAConv/Exp", "method": "TransMatcher", "sub_method": "res50-ibnb-layer3"}
+{"train_dataset": "market", "loss": 2.8365938321410735, "acc": 0.690600033288948, "epochs": 10, "train_time": 1216.9119501113892}
+{"train_dataset": "market", "exp_dir": "/content/drive/MyDrive/NN/QAConv/Exp", "method": "TransMatcher", "sub_method": "res50-ibnb-layer3"}
+{"train_dataset": "market", "loss": 2.4632652637644235, "acc": 0.7410952063914781, "epochs": 11, "train_time": 1319.8876242637634}
+{"train_dataset": "market", "exp_dir": "/content/drive/MyDrive/NN/QAConv/Exp", "method": "TransMatcher", "sub_method": "res50-ibnb-layer3"}
+{"train_dataset": "market", "loss": 2.515995171670114, "acc": 0.734978362183755, "epochs": 12, "train_time": 1423.0020983219147}
+{"train_dataset": "market", "exp_dir": "/content/drive/MyDrive/NN/QAConv/Exp", "method": "TransMatcher", "sub_method": "res50-ibnb-layer3"}
+{"train_dataset": "market", "loss": 2.4144644176912373, "acc": 0.7454643808255659, "epochs": 13, "train_time": 1526.0169034004211}
+{"train_dataset": "market", "exp_dir": "/content/drive/MyDrive/NN/QAConv/Exp", "method": "TransMatcher", "sub_method": "res50-ibnb-layer3"}
+{"train_dataset": "market", "loss": 2.4774484885199253, "acc": 0.7379535619174434, "epochs": 14, "train_time": 1629.0077304840088}
+{"train_dataset": "market", "exp_dir": "/content/drive/MyDrive/NN/QAConv/Exp", "method": "TransMatcher", "sub_method": "res50-ibnb-layer3"}
+{"train_dataset": "market", "loss": 2.2960375564869806, "acc": 0.7618799933422103, "epochs": 15, "train_time": 1732.0692064762115}
