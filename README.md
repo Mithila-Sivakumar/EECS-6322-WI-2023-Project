@@ -15,10 +15,9 @@ In this project, we present a reproduction study of the paper "TransMatcher: Dee
 We have tried to reproduce the implemention the TransMatcher decoder on top of the official PyTorch project of QAConv-GS. We have used Resnet50-idn-b as the backbone network. We loaded their model from their official github repository. This backbone network is pre-trained on ImageNet with states of Batch Normalization layers being fixed. We have used layer3 feature map and also appended a 3x3 neck convolution layer to produce the final feature map as explained in the paper. The input image is resized to 384 × 128. The batch size is set to 64, with K=4 for the GS sampler. The network is trained with the SGD optimizer, with a learning rate of 0.0005 for the backbone network, and 0.005 for newly added layers. They are decayed by 0.1 after 10 epochs, and 15 epochs are trained in total. All these settings are exactly the same as expressed in the paper.
 
 Note - The datasets are not uploaded here in github, instead a link to them is provided below
-<ol>
-  <li>CUHK03-NP - [here](https://github.com/zhunzhong07/person-re-ranking/blob/master/CUHK03-NP/README.md)</li>
-  <li>Market-1501 - [here](https://zheng-lab.cecs.anu.edu.au/Project/project_reid.html)</li>
-</ol> 
+ 1. CUHK03-NP is [here](https://github.com/zhunzhong07/person-re-ranking/blob/master/CUHK03-NP/README.md)
+ 2. Market-1501 is [here](https://zheng-lab.cecs.anu.edu.au/Project/project_reid.html)
+
 
 The checkpoint file to do evaluation is [here](https://yuoffice-my.sharepoint.com/:f:/g/personal/msivakum_yorku_ca/Eu00buljiBVGgimzZwCkbnUBtb79SSrsb8gk_YcagmnygQ?e=NW9GZf). Access is within york university
 
