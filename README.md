@@ -5,7 +5,8 @@ This project is inspired1 by the Machine Learning Reproducibility Challenge
 replicate the central claim in a selected deep learning focused paper. This
 will include re-implementing the core methods and experiments in the paper
 
-Project Report - EECS_6322_Report.pdf
+Project Report - EECS_6322_Project_Report.pdf
+Presentation - EECS_6322_Presentation
 
 ## Abstract
 In this project, we present a reproduction study of the paper "TransMatcher: Deep Image Matching Through Transformers for Generalizable Person Re-identification". We implemented the TransMatcher using PyTorch (on top of QAConv-GS as mentioned in the paper). We implemented the TransMatcher model and reproduced the scenario where the model is trained on Market-1501 dataset and tested on CUHK03-np dataset. We evaluated the model's performance using the mean average precision (mAP), and Rank-1 metric and compared our results to those reported in the original paper
